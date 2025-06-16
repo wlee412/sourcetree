@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-jsp2 프로젝트
+jsp2 프로젝트(수정)
 </body>
 </html>
